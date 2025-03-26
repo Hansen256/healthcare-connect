@@ -2,3 +2,7 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.2.2  # Add this package
+
+#new dependancy
+ dependencies:
+  shared_preferences: ^2.2.2

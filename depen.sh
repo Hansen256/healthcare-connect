@@ -20,3 +20,7 @@ flutter pub add image_picker shared_preferences
 # Medication Tracker (Reminders for Medications)
 #run the following command in your Flutter terminal to install flutter_local_notifications for reminders (optional for future):
 flutter pub add shared_preferences
+
+
+#new dependancy
+flutter pub get
